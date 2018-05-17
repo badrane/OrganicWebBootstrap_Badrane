@@ -40,4 +40,68 @@ header{
 .imgslider{
     height: auto;
     width: 10%
+}
+
+.colorslider{
+    color:#28BBEA; 
+} 
+.colorslider2{
+    color: #696565;
+} 
+
+.uul{
+    list-style: none;
+} 
+
+/* price */
+
+.colordiv{
+    background-color: #28BBEA;
+}
+
+
+
+.price-radius{
+    border-radius: 50%;
+    height: 80px;
+    width: 80px
+}
+
+.article-back{
+    background-color: #F4F4F4;
+} 
+
+/* logo client */
+
+.client{
+    background-color: #ECEBE9;
+} 
+
+/* poste */
+
+.back-poste{
+    background-color: #F4F4F4;
+}  
+
+/* from */
+
+.from-size{
+    width: 100%;
+} 
+
+.name-size{
+    width: 49.5%;
+} 
+
+.message-size{
+    height: 280px;
+} 
+
+/* footer */
+
+.div-footer{
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+    color: black;
 } 
